@@ -1,4 +1,4 @@
-[![MasterHead](https://jedynienatura.pl/kubutek/gitBg.png)](https://rishavchanda.io)
+[![MasterHead](https://jedynienatura.pl/kubutek/githubBg.png)](https://jakubmrzyglod.pl)
 <h1 align="center">Hi 👋, I'm Jakub Mrzyglod</h1>
 <h3 align="center">Junior Frontend Developer from Poland</h3>
 <br>
